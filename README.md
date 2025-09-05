@@ -1,5 +1,5 @@
 # Cashee – Mobile E-Wallet Application  
-**Coursework Project – Android App Development (2024)**  
+**Mobile E-Wallet Application built with Java, Firebase, and Android Studio — UI/UX designed in Figma, Agile managed in Jira**  
 
 ---
 
